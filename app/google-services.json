@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792371919962",
+    "project_id": "vroomandroid-e797e",
+    "storage_bucket": "vroomandroid-e797e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792371919962:android:64fd9f86e323266fddac63",
+        "android_client_info": {
+          "package_name": "com.example.vroomandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792371919962-vcu8kmr1diff4ad15a2dph3k6chngb32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlaHkEtLH3DmxMaKtWcYL2FZN3FTTvaJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792371919962-vcu8kmr1diff4ad15a2dph3k6chngb32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
